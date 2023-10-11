@@ -7,8 +7,6 @@
   "license": "MIT",
   "dependencies": {
     "await-exec": "^0.1.2",
-    "drivelist": "^11.1.0",
-    "jimp": "^0.22.10",
     "systeminformation": "^5.21.11"
   },
   "devDependencies": {

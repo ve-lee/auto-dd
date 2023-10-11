@@ -1,7 +1,11 @@
 # auto-dd
 
-A very simple cd backup automatic solution for windows, written in nodeJs. Could be improved.
+A very simple cd backup automatic solution for windows, written in nodeJs. 
+Based on systeminformation and await-exec. 
+
 Using dd.exe and wia-cmd-scanner.exe, included.
+
+Could be improved.
 
 It polls for new cd, and when one is found it copy its content to iso file and scan whatever is in the scanner.
 
