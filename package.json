@@ -1,0 +1,18 @@
+{
+  "name": "auto-dd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ve-lee/auto-dd.git",
+  "author": "Ve Lee <capix@pm.me>",
+  "license": "MIT",
+  "dependencies": {
+    "await-exec": "^0.1.2",
+    "drivelist": "^11.1.0",
+    "jimp": "^0.22.10",
+    "systeminformation": "^5.21.11"
+  },
+  "devDependencies": {
+    "@types/node": "^20.8.4",
+    "typescript": "^5.2.2"
+  }
+}
